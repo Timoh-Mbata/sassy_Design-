@@ -1,5 +1,5 @@
-SASSYDESIGN Website Structure Documentation
-Overview
+# SASSYDESIGN Website Structure Documentation
+- Overview
 SASSYDESIGN is an e-commerce platform aimed at fashion enthusiasts and sneakerheads. It operates under the dropshipping model, providing a curated selection of trendy fashion items and sneakers without the need for upfront capital or inventory management. This platform serves as a unique and personalized shopping experience, allowing customers to browse and purchase fashion products with ease.
 
 This documentation outlines the structure and components of the SASSYDESIGN website, as well as a brief explanation of how the platform works.
